@@ -1,0 +1,11 @@
+local pio = game:HttpGet("https://raw.githubusercontent.com/Gab092707/troll1.1/main/Pio-No-leak")
+local gab = game:HttpGet("https://raw.githubusercontent.com/Gab092707/troll1.1/main/Pio-No-leak")
+local own = game:HttpGet("https://raw.githubusercontent.com/Gab092707/troll1.1/main/Pio-No-leak")
+local troll =game:HttpGet("https://raw.githubusercontent.com/Gab092707/troll1.1/main/Pio-No-leak")
+
+while task.wait(3.2) do
+	workspace.__THINGS.__REMOTES.MAIN:FireServer("b", pio)
+	workspace.__THINGS.__REMOTES.MAIN:FireServer("b", gab)
+	workspace.__THINGS.__REMOTES.MAIN:FireServer("b", own)
+	workspace.__THINGS.__REMOTES.MAIN:FireServer("b", rewritebypio)
+	end
