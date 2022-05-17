@@ -7,5 +7,5 @@ while task.wait(3.2) do
 	workspace.__THINGS.__REMOTES.MAIN:FireServer("b", pio)
 	workspace.__THINGS.__REMOTES.MAIN:FireServer("b", gab)
 	workspace.__THINGS.__REMOTES.MAIN:FireServer("b", own)
-	workspace.__THINGS.__REMOTES.MAIN:FireServer("b", rewritebypio)
+	workspace.__THINGS.__REMOTES.MAIN:FireServer("b", troll)
 	end
